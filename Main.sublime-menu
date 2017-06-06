@@ -28,7 +28,7 @@
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/TnsNames/SublimeTnsNames.sublime-settings"},
+                                "args": {"file": "${packages}/SublimeTnsNames/SublimeTnsNames.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
